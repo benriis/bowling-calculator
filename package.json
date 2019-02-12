@@ -1,0 +1,17 @@
+{
+  "name": "tenpinbowling",
+  "version": "1.0.0",
+  "description": "Score calculator for a ten pin bowling",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ben",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
